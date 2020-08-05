@@ -6,10 +6,9 @@ p{
 body{
     width: 95%;
     height: 100%;
-    margin:auto ;
+    margin:auto;
     max-width: 90%;
-    margin: auto;
-
+    background-color:#ACC1D5;
 }
 
 a:link{
@@ -28,6 +27,46 @@ q{
     display: block;
     width:50%;
     margin: auto;
-    
+    font-size: 160%;
+    background-color: gray;
+    border-left: 3px;
+    border-left-style: dashed;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 
+
+}
+
+.farmer{
+    font-style: italic;
+    border-left-color:blue;
+
+}
+
+.vills{
+        font-style: italic;
+        border-left-color: brown;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.good{
+    text-transform: capitalize;
+    color: green;
+}
+
+.bad{
+    text-transform: capitalize;
+    color: red;
+}
+
+tr.gray{
+    background-color: gray;
+}
+
+tr.white{
+    background-color: white;
 }
