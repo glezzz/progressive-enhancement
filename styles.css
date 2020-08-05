@@ -1,0 +1,33 @@
+p{
+    font-family: Serif;
+    word-spacing: 2px;
+    color: darkgreen;
+}
+body{
+    width: 95%;
+    height: 100%;
+    margin:auto ;
+    max-width: 90%;
+    margin: auto;
+
+}
+
+a:link{
+    color:darkblue;
+}
+
+a:visited{
+    color:mediumpurple;
+
+}
+a:hover{
+    color:red;
+}
+
+q{
+    display: block;
+    width:50%;
+    margin: auto;
+    
+
+}
